@@ -10,3 +10,4 @@ if cnpj.validateCNPJ(varGerado):
     print(f'CNPJ {varGerado} válido')
 else:
     print(f'CNPJ {varGerado} inválido')
+    
